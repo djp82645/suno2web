@@ -1,5 +1,5 @@
 # sunotoopenapi
-> 🌐️ English | [中文](README_EN.md)
+> 🌐️ 中文 | [English](README_EN.md)
 
 调用suno api生成openai可调用的服务
 当前suno 官方已经升级到v4 且加入验证码，已经无法丝滑使用api调用，非常烦
